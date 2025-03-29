@@ -47,8 +47,14 @@ CREATE TABLE student(id INT PRIMARY KEY, name VARCHAR(255) NOT NULL);
 
 ## Submit screenshots demonstrating:
 * S3 bucket
+![S3](S3Bucket.png)
 * CloudFront
+![CloudFront](CloudFront.png)
 * ALB configuration
+![ALB](ALB.png)
 * RDS database configuration
+![RDS](RDS.png)
 * API response from EC2 application
+![API](APIResponse.png)
 * Website using CloudFront DNS
+![Website](Website.png)
